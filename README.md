@@ -53,14 +53,6 @@ I’m passionate about **clean code**, **system thinking**, and **shipping meani
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayoojsatheesh&show_icons=true&hide_title=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayoojsatheesh&layout=compact&hide_border=true" height="160" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 * 💼 LinkedIn: *https://www.linkedin.com/in/sayooj-satheesh-44ba2a235/*
