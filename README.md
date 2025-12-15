@@ -53,6 +53,16 @@ I’m passionate about **clean code**, **system thinking**, and **shipping meani
 
 ---
 
+---
+
+## 🏆 Recognition
+
+- **Outstanding Performance Award** — Zeazonz Technologies  
+  Recognized for professional growth, ownership, continuous learning, and impactful contributions to production systems.
+
+---
+
+
 ## 📫 Let’s Connect
 
 * 💼 LinkedIn: *https://www.linkedin.com/in/sayooj-satheesh-44ba2a235/*
