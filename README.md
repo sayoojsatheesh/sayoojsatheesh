@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sayooj Satheesh
 
-## 🚀 Frontend-Focused Full-Stack Developer
+## 🚀 Full-Stack Developer
 
-I’m a **Frontend-Focused Full-Stack Developer** with **3.5 years of experience** building fast, scalable, and user-centric web applications. I primarily work with **React**, with hands-on experience in **Next.js** and **Node.js** for building full-stack features and APIs.
+I’m a **Full-Stack Developer** with **3.5 years of experience** building fast, scalable, and user-centric web applications. I primarily work with **React**, with hands-on experience in **Next.js** and **Node.js** for building full-stack features and APIs.
 
 Currently, I work at **Zeazonz Technologies**, where I build **production-ready features** for an **incident management platform**, focusing on **performance, reliability, and user experience**.
 
