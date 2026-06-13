@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer
 
-I’m a **Full-Stack Developer** with **3.7 years of experience** building fast, scalable, and user-centric web applications. I primarily work with **React**, with hands-on experience in **Next.js** and **Node.js** for building full-stack features and APIs.
+I’m a **Full-Stack Developer** with **4 years of experience** building fast, scalable, and user-centric web applications. I primarily work with **React**, with hands-on experience in **Next.js** and **Node.js** for building full-stack features and APIs.
 
 Currently, I work at **Zeazonz Technologies**, where I build **production-ready features** for an **incident management platform**, focusing on **performance, reliability, and user experience**.
 
@@ -22,7 +22,7 @@ I’m passionate about **clean code**, **system thinking**, and **shipping meani
 ### 💻 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,materialui" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,materialui" />
 </p>
 
 ### 🧠 Backend
